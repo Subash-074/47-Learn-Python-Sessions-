@@ -1,6 +1,7 @@
 print('Hello world')
 """ Here we will be learning about the brief introduction of python and django in this file. """
 
+<<<<<<< HEAD
 print('Thanks')
 print('End')
 
@@ -79,3 +80,6 @@ Anaconda Python
 """
 
 print('First Session Theory Done')
+=======
+print('lets start')
+>>>>>>> e3aa8f4f69b8f62cbae3d2c534595b995fc91a33
