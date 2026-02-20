@@ -40,7 +40,8 @@ print(b)
 print(type(b))
 
 #This gives output in binary but if we want it in same number system 
-
+f=0b1001 #Binary Number 
+print(f)
 c=0xface #Hexadecimal number 
 print(bin(c))# we want output in binary 
 print(oct(c))#we want output in octal 
